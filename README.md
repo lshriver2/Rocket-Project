@@ -1,7 +1,5 @@
 # Rocket-Project
-Rocket Project 
-
-I am working on a project for a rocket team competition
+I am working on a project for a rocket team competition.
 
 We will have a raspberry pi Zero that will need to control a 
 pi camera and a motor (I am using an H-bridge).
